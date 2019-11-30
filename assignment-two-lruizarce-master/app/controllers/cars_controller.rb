@@ -5,28 +5,38 @@ class CarsController < ApplicationController
   # GET /cars.json
   def index
     @cars = Car.all
+    @makes = Make.all
   end
 
   # GET /cars/1
   # GET /cars/1.json
   def show
+    @makes = Make.all
   end
 
   # GET /cars/new
   def new
     @car = Car.new
     @parts = Part.all
+    @makes = Make.all
   end
 
   # GET /cars/1/edit
   def edit
     @parts = Part.all
+    @makes = Make.all
+  end
+
+  def search
+    @cars = Car.where("car_model like ?", "%#{params[:query]}%")
+    render :index
   end
 
   # POST /cars
   # POST /cars.json
   def create
     @car = Car.new(car_params)
+    @makes = Make.all
 
     respond_to do |format|
       if @car.save
