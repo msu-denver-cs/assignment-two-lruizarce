@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feb21706-4ded-4a2b-bfb2-90ac426af0bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/WebApp01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/config/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/images/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/cable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/cars.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/channels/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/makes.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/models.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/javascripts/parts.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/cars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/makes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/models.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/parts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/assets/stylesheets/scaffolds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/channels/application_cable/channel.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/channels/application_cable/connection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/cars_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/makes_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/models_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/parts_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/helpers/application_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/helpers/cars_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/helpers/makes_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/helpers/models_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/helpers/parts_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/jobs/application_job.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/mailers/application_mailer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/application_record.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/car.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/make.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/model.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/models/part.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/_car.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/cars/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/mailer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/layouts/mailer.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/_make.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/makes/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/_model.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/models/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/_part.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/views/parts/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/update" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/yarn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cable.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/credentials.yml.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/database.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/application_controller_renderer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/assets.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/backtrace_silencers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/content_security_policy.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/cookies_serializer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/filter_parameter_logging.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/mime_types.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/initializers/wrap_parameters.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/puma.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/storage.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/migrate/20190924154150_create_cars.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/migrate/20190924154300_create_parts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/migrate/20190924154330_create_makes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/migrate/20190924160109_create_models.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/schema.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/assets/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/tasks/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/422.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/application_system_test_case.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/controllers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/controllers/cars_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/controllers/makes_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/controllers/models_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/controllers/parts_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/cars.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/files/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/makes.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/models.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/fixtures/parts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/helpers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/integration/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/models/car_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/models/make_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/models/model_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/models/part_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/system/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/system/cars_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/system/makes_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/system/models_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/system/parts_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmp/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendor/.keep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\luisr\RubymineProjects\assignment-one-lruizarce\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPkfgV9KOL67RLG7Ac5BZ1vyjM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: assignment-one-lruizarce">
+    <configuration name="Development: assignment-one-lruizarce" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="assignment-one-lruizarce" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: assignment-one-lruizarce" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="assignment-one-lruizarce" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: assignment-one-lruizarce" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="assignment-one-lruizarce" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: assignment-one-lruizarce" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="assignment-one-lruizarce" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="false" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb21706-4ded-4a2b-bfb2-90ac426af0bb" name="Default Changelist" comment="" />
+      <created>1575265722322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575265722322</updated>
+      <workItem from="1575265723958" duration="5154000" />
+      <workItem from="1575272532743" duration="3652000" />
+      <workItem from="1575306206255" duration="420000" />
+      <workItem from="1575333591525" duration="457000" />
+      <workItem from="1575334307918" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575265758336">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="0" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1080@0.0.1620.1080" timestamp="1575265758336" />
+    <state x="0" y="183" key="SettingsEditor" timestamp="1575334315122">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="0" y="183" key="SettingsEditor/0.0.1620.1080@0.0.1620.1080" timestamp="1575334315122" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment_one_lruizarce@Development__assignment_one_lruizarce.rcov" NAME="Development: assignment-one-lruizarce Coverage Results" MODIFIED="1575069304418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="assignment-one-lruizarce" />
+  </component>
+</project>
