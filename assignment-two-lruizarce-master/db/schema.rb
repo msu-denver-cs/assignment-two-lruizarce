@@ -10,14 +10,25 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_09_24_160109) do
+ActiveRecord::Schema.define(version: 2019_12_02_075645) do
 
   create_table "cars", force: :cascade do |t|
-    t.string "Make"
-    t.string "Model"
-    t.string "Vin"
+    t.string "make"
+    t.string "model"
+    t.string "vin"
+    t.integer "make_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["make_id"], name: "index_cars_on_make_id"
+  end
+
+  create_table "cars_parts", force: :cascade do |t|
+    t.integer "car_id"
+    t.integer "part_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["car_id"], name: "index_cars_parts_on_car_id"
+    t.index ["part_id"], name: "index_cars_parts_on_part_id"
   end
 
   create_table "makes", force: :cascade do |t|
@@ -25,16 +36,6 @@ ActiveRecord::Schema.define(version: 2019_09_24_160109) do
     t.string "country"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-  end
-
-  create_table "models", force: :cascade do |t|
-    t.string "CarParts"
-    t.integer "Cars_id"
-    t.integer "Parts_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["Cars_id"], name: "index_models_on_Cars_id"
-    t.index ["Parts_id"], name: "index_models_on_Parts_id"
   end
 
   create_table "parts", force: :cascade do |t|

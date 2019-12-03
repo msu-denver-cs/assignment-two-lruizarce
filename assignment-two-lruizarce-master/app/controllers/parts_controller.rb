@@ -20,7 +20,7 @@ class PartsController < ApplicationController
 
   # GET /parts/1/edit
   def edit
-    @part = Part.new(part_params)
+    @cars = Car.all
   end
 
   # POST /parts
@@ -71,6 +71,6 @@ class PartsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def part_params
-      params.require(:part).permit(:name, :car => [])
+      params.require(:part).permit(:name, :car_ids => [])
     end
 end

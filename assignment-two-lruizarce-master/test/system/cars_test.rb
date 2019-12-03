@@ -14,9 +14,10 @@ class CarsTest < ApplicationSystemTestCase
     visit cars_url
     click_on "New Car"
 
-    fill_in "(make", with: @car.(Make
-    fill_in "Model", with: @car.Model
-    fill_in "Vin", with: @car.Vin
+    fill_in "Make", with: @car.make
+    fill_in "Make", with: @car.make_id
+    fill_in "Model", with: @car.model
+    fill_in "Vin", with: @car.vin
     click_on "Create Car"
 
     assert_text "Car was successfully created"
@@ -27,9 +28,10 @@ class CarsTest < ApplicationSystemTestCase
     visit cars_url
     click_on "Edit", match: :first
 
-    fill_in "(make", with: @car.(Make
-    fill_in "Model", with: @car.Model
-    fill_in "Vin", with: @car.Vin
+    fill_in "Make", with: @car.make
+    fill_in "Make", with: @car.make_id
+    fill_in "Model", with: @car.model
+    fill_in "Vin", with: @car.vin
     click_on "Update Car"
 
     assert_text "Car was successfully updated"
